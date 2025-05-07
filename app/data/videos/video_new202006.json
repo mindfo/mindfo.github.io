@@ -579,6 +579,7 @@
 {"series_id": 28, "id": 9, "link": "6940-a28_009", "mp3": "a28/009.mp3", "youtube": "L9Yerwm_OHQ", "teacher": "\u6b63\u5afa\u8001\u5e2b", "name": "\u3008\u5f9e\u5730\u8e0a\u51fa\u54c1\u3009(\u4e00)"},
 {"series_id": 28, "id": 10, "link": "6952-a28_010", "mp3": "a28/010.mp3", "youtube": "ecugBnI7jVg", "teacher": "\u6b63\u5afa\u8001\u5e2b", "name": "\u3008\u5f9e\u5730\u8e0a\u51fa\u54c1\u3009(\u4e8c)"},
 {"series_id": 28, "id": 11, "link": "6963-a28_011", "mp3": "a28/011.mp3", "youtube": "CzHc1lbhqTI", "teacher": "\u6b63\u5016\u8001\u5e2b", "name": "\u5531\u5c0e\u4e4b\u5e2b"},
+{"series_id": 28, "id": 11, "link": "7022-a28_011-\u5f65\u5112-test", "mp3": "a28/011.mp3", "youtube": "CzHc1lbhqTI", "teacher": "\u6b63\u5016\u8001\u5e2b", "name": "\u5531\u5c0e\u4e4b\u5e2b"},
 {"series_id": 28, "id": 12, "link": "6967-a28_012", "mp3": "a28/012.mp3", "youtube": "7g_mnJKOfoU", "teacher": "\u6b63\u5016\u8001\u5e2b", "name": "\u5b89\u6a02\u884c"},
 {"series_id": 28, "id": 13, "link": "6957-a28_013", "mp3": "a28/013.mp3", "youtube": "UH4YPrExrWk", "teacher": "\u6b63\u5016\u8001\u5e2b", "name": "\u5927\u96c4\u4e16\u5c0a"},
 {"series_id": 28, "id": 14, "link": "6973-a28_014", "mp3": "a28/014.mp3", "youtube": "N98Sw_vJJvA", "teacher": "\u6b63\u5016\u8001\u5e2b", "name": "\u667a\u6167\u53f5\u601d\u8b70"},
@@ -591,5 +592,17 @@
 {"series_id": 28, "id": 21, "link": "6985-a28_021", "mp3": "a28/021.mp3", "youtube": "9qnZ3m4g5SM", "teacher": "\u6b63\u624d\u8001\u5e2b", "name": "\u4f5b\u9640\u6559\u5316\u96e3\u53ef\u601d\u8b70"},
 {"series_id": 28, "id": 22, "link": "6977-a28_022", "mp3": "a28/022.mp3", "youtube": "8j1ot_3VOo0", "teacher": "\u6b63\u624d\u8001\u5e2b", "name": "\u4f5b\u6cd5\u4fee\u8b49\u4e0d\u80fd\u53ea\u770b\u8868\u76f8"},
 {"series_id": 28, "id": 23, "link": "6981-a28_023", "mp3": "a28/023.mp3", "youtube": "OOxNltDtjKw", "teacher": "\u6b63\u624d\u8001\u5e2b", "name": "\u4f5b\u6cd5\u4fee\u8b49\u4e0d\u80fd\u53ea\u770b\u4e00\u4e16"},
-{"series_id": 28, "id": 24, "link": "6990-a28_024", "mp3": "a28/024.mp3", "youtube": "lhXFur3uWkM", "teacher": "\u6b63\u624d\u8001\u5e2b", "name": "\u4e09\u4e58\u83e9\u63d0\u7684\u5fcd\u8fb1\u5fc3\u6c7a\u5b9a(\u4e00)"}
+{"series_id": 28, "id": 24, "link": "6990-a28_024", "mp3": "a28/024.mp3", "youtube": "lhXFur3uWkM", "teacher": "\u6b63\u624d\u8001\u5e2b", "name": "\u4e09\u4e58\u83e9\u63d0\u7684\u5fcd\u8fb1\u5fc3\u6c7a\u5b9a(\u4e00)"},
+{"series_id": 28, "id": 25, "link": "7004-a28_025", "mp3": "a28/025.mp3", "youtube": "96El2hY7zjI", "teacher": "\u6b63\u624d\u8001\u5e2b", "name": "\u4e09\u4e58\u83e9\u63d0\u7684\u5fcd\u8fb1\u5fc3\u6c7a\u5b9a(\u4e8c)"},
+{"series_id": 28, "id": 26, "link": "6987-a28_026", "mp3": "a28/026.mp3", "youtube": "JUNY3RxtwvA", "teacher": "\u6b63\u5049\u8001\u5e2b", "name": "\u5927\u4e58\u4fee\u884c\u4f4d\u968e\u5be6\u8b49\uff08\u4e00\uff09"},
+{"series_id": 28, "id": 27, "link": "6980-a28_027", "mp3": "a28/027.mp3", "youtube": "jYTu9pF6tsM", "teacher": "\u6b63\u5049\u8001\u5e2b", "name": "\u5927\u4e58\u4fee\u884c\u4f4d\u968e\u5be6\u8b49\uff08\u4e8c\uff09"},
+{"series_id": 28, "id": 28, "link": "6983-a28_028", "mp3": "a28/028.mp3", "youtube": "ndnM4WE3nkM", "teacher": "\u6b63\u5049\u8001\u5e2b", "name": "\u5927\u4e58\u4fee\u884c\u4f4d\u968e\u5be6\u8b49\uff08\u4e09\uff09\u4fe1\u4f4d\u2013\u516d\u4f4f"},
+{"series_id": 28, "id": 29, "link": "6992-a28_029", "mp3": "a28/029.mp3", "youtube": "pXJpBLoz9Is", "teacher": "\u6b63\u5049\u8001\u5e2b", "name": "\u5927\u4e58\u4fee\u884c\u4f4d\u968e\u5be6\u8b49\uff08\u56db\uff09\u4e03\u4f4f\u2014\u5341\u8ff4\u5411"},
+{"series_id": 28, "id": 30, "link": "7009-a28_030", "mp3": "a28/030.mp3", "youtube": "pDR1MmEw0zo", "teacher": "\u6b63\u5049\u8001\u5e2b", "name": "\u5927\u4e58\u4fee\u884c\u4f4d\u968e\u5be6\u8b49\uff08\u4e94\uff09\u5730\u4e0a\u83e9\u85a9"},
+{"series_id": 28, "id": 31, "link": "6999-a28_031", "mp3": "a28/031.mp3", "youtube": "VpDS-o6GnRc", "teacher": "\u6b63\u8389\u8001\u5e2b", "name": "\u3008\u5f9e\u5730\u8e0a\u51fa\u54c1\u3009\u6982\u8aaa(\u4e00)"},
+{"series_id": 28, "id": 32, "link": "6993-a28_032", "mp3": "a28/032.mp3", "youtube": "v5QYwjIJbrU", "teacher": "\u6b63\u8389\u8001\u5e2b", "name": "\u3008\u5f9e\u5730\u8e0a\u51fa\u54c1\u3009\u6982\u8aaa(\u4e8c)"},
+{"series_id": 28, "id": 33, "link": "7011-a28_033", "mp3": "a28/033.mp3", "youtube": "eUnqYkaXZvo", "teacher": "\u6b63\u8389\u8001\u5e2b", "name": "\u3008\u5f9e\u5730\u8e0a\u51fa\u54c1\u3009\u6982\u8aaa(\u4e09)"},
+{"series_id": 28, "id": 34, "link": "7006-a28_034", "mp3": "a28/034.mp3", "youtube": "LlZDZNwleKg", "teacher": "\u6b63\u6e90\u8001\u5e2b", "name": "\u7531\u5982\u4f86\u58fd\u91cf\u770b\u4f5b\u83e9\u85a9\u60b2\u9858(\u4e00)"},
+{"series_id": 28, "id": 35, "link": "7017-a28_035", "mp3": "a28/035.mp3", "youtube": "N7a22fR2EjI", "teacher": "\u6b63\u6e90\u8001\u5e2b", "name": "\u7531\u5982\u4f86\u58fd\u91cf\u770b\u4f5b\u83e9\u85a9\u60b2\u9858(\u4e8c)"},
+{"series_id": 28, "id": 36, "link": "7001-a28_036", "mp3": "a28/036.mp3", "youtube": "6niD3I5N3iM", "teacher": "\u6b63\u6e90\u8001\u5e2b", "name": "\u7531\u5982\u4f86\u58fd\u91cf\u770b\u4f5b\u83e9\u85a9\u60b2\u9858(\u4e09)"}
 ]
